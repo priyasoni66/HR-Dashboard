@@ -1,4 +1,4 @@
-# HR-Dashboard-MySQL-PowerBI
+# HR Dashboard [MySQL PowerBI]
 
 ![image](https://github.com/priyasoni66/HR-Dashboard/blob/main/HR%20Employee%20Distribution%20Dashboard.PNG)
 
